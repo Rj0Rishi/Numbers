@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class ArmstrongNum {
 	public static void main(String[] args) {
 		int n,reminder,sum=0;
